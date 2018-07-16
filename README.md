@@ -1,5 +1,7 @@
 This program allows for the user to observe how multiple independent AI agents cooperate to collect food objects when faced with different variables.
 
+![alt text](https://github.com/Lewisdd/FinalYearProject/blob/master/DissPics.PNG)
+
 To run the program, extract the JAR file into its own folder. If the data used for the results is wanted it can also be extracted into the same folder as the JAR. Run the JAR file and the network menu will show up.
 
 Training a new network:
